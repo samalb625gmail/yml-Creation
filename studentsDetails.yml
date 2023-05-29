@@ -1,0 +1,17 @@
+---
+- myStudents: 
+- name: anil
+  phno: 9090909090
+  address: hyd
+
+
+- name: sunil
+  phno: 8080808080
+  address: hyd
+
+- name: samal
+  phno: 7575757575
+  address: hyd
+
+  
+

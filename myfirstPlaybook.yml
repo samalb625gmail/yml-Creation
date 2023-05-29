@@ -1,0 +1,16 @@
+---
+- hosts: all
+  become: yes
+  tasks: 
+  - name : i want to install webserver on nodes
+    apt:
+      name: apache2
+      state: present
+
+  - name: i want to install 
+    apt: 
+        name: tree
+        state: present
+
+
+  
